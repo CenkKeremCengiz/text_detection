@@ -3,7 +3,7 @@ import easyocr
 import matplotlib.pyplot as plt
 
 #read the image
-image_path =  r'C:\Users\MONSTER\Desktop\Computer Vision\data\test2.png'
+image_path =  #write your image location here
 
 img = cv2.imread(image_path)
 
